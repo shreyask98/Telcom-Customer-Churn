@@ -1,6 +1,8 @@
 # Telcom Customer Churn
 
- capstone project
+https://github.com/shreyask98/Telcom-Customer-Churn/blob/0d0e3fc62c6a78d77caa0e3c5e8745157a5a839e/Telcom_Customer_Churn.ipynb
+
+capstone project
  
 Step 1: Problem Definition
 
